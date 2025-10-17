@@ -1,5 +1,12 @@
 # Informe: Perceptrón implementado con Agentes
 
+
+
+Diseño — entrenamiento del perceptrón
+---------------------
+<img width="636" height="808" alt="image" src="https://github.com/user-attachments/assets/7631918c-9479-492f-a5a4-3feffac94944" />
+
+
 Fundamento teórico
 ---------------------
 
